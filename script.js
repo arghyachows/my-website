@@ -1,4 +1,4 @@
-const section = document.querySelector("body");
+const section = document.querySelector("container");
 let currentPixel = window.pageYOffset
 
 //looper keeps running and keeps track of where the new pixel is
